@@ -1,11 +1,15 @@
 - 👋 Hi, I’m Saketh D.Surya (@saketh-05)
 - 👀 I’m interested in Learning new Tech
-- 🌱 I’m currently learning FullStack Web Development
-- 💞️ I’m looking to collaborate on any tech stack
+- 💪 I'm a FullStack Web Developer in various tech stacks which include MERN, Java(SpringBoot), firebase. 
+- 🌱 I’m currently learning General Artificial Intelligence and Neural Networks. 
+- 💞️ I’m looking to collaborate on any tech stack with anyone ✨
 - 📫 How to reach me ...
-- 😄 Pronouns: Friendly, Enthusiastic, Perseverent
+  1. Email me via - dsakethsurya@gmail.com
+  2. Contact via LinkedIn (provided in github profile)
+- 😄 Pronouns: He/Him
+- 🤹 My Intuitive skills being Adaptable, Enthusiastic, Creative, Consistent, Friendly, Patience and Perseverent.
 - ⚡ Fun fact: I Love Sweets 😋
-
+- 😃 Tech fact: I like to learn like a machine. In specific like a robot with AI. 
 <!---
 saketh-05/saketh-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
