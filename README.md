@@ -1,14 +1,14 @@
-- 👋 Hi, I’m Saketh D.Surya (@saketh-05)
-- 👀 I’m interested in Learning new Tech
-- 💪 I'm a FullStack Web Developer in various tech stacks which include MERN, FastAPI, Java(Server-side). 
-- 🌱 I’m currently learning Generative Artificial Intelligence and Neural Networks.
+- 👋 Hi, I’m Saketh Surya Dontukurti (@saketh-05)
+- 👀 I’m interested in Learning emerging TECH
+- 💪 I'm a FullStack Web Developer with expertise in MERN, FastAPI, DevOps(Basic). 
+- 🌱 I’m in Love with learning Generative Artificial Intelligence and Neural Networks.
 - 🔥 I'm passionate about AI Tools, agents, assistants and automation (A4) 😁
 - 💞️ I’m looking to collaborate on any tech stack with anyone ✨
-- 🙃 My hobbies being Reading self-help, non-fiction and knowledgable books, Drawing(sketch), painting, spending time with nature, etc...
+- 🙃 My hobbies being Reading self-help, non-fiction and knowledgable books, Drawing(sketch), painting, spending time with nature, going out with friends & family, etc...
 - 😄 Pronouns: He/Him
-- 🤹 My Intuitive skills being Adaptable, Enthusiastic, Creative, Consistent, Friendly, Patience and Perseverent.
+- 🤹 My Intuitive skills being Adaptable, Enthusiastic, Creative, Friendly, Patience and Perseverent.
 - ⚡ Fun fact: I Love Sweets 😋
-- 😃 Tech fact: I like to learn like a machine. In specific like a robot with AI.
+- 😃 Tech fact: The Apollo 11 mission to the Moon ran on a computer with just 64 KB of memory and a processor speed of 0.043 MHz — millions of times less powerful than the smartphone in our pocket today.
 
 - 📫 How to reach me ...
   1. Email me via - dsakethsurya@gmail.com
