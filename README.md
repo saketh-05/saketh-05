@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Saketh Surya Dontukurti (saketh-05) 👑</h1>
+<h1 align="center">⚒️ Saketh Surya Dontukurti (saketh-05) 👑</h1>
 <p align="center">
   <em>Full Stack Dev • AI Enthusiast • Life Explorer</em><br>
   <b>"Coding Empires. Crafting Futures."</b>
