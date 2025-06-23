@@ -1,28 +1,85 @@
-- 👋 Hi, I’m Saketh Surya Dontukurti (@saketh-05)
-- 👀 I’m interested in Learning emerging TECH
-- 💪 I'm a FullStack Web Developer with expertise in MERN, FastAPI, DevOps(Basic). 
-- 🌱 I’m in Love with learning Generative Artificial Intelligence and Neural Networks.
-- 🔥 I'm passionate about AI Tools, agents, assistants and automation (A4) 😁
-- 💞️ I’m looking to collaborate on any tech stack with anyone ✨
-- 🙃 My hobbies being Reading self-help, non-fiction and knowledgable books, Drawing(sketch), painting, spending time with nature, going out with friends & family, etc...
-- 😄 Pronouns: He/Him
-- 🤹 My Intuitive skills being Adaptable, Enthusiastic, Creative, Friendly, Patience and Perseverent.
-- ⚡ Fun fact: I Love Sweets 😋
-- 😃 Tech fact: The Apollo 11 mission to the Moon ran on a computer with just 64 KB of memory and a processor speed of 0.043 MHz — millions of times less powerful than the smartphone in our pocket today.
+<h1 align="center">🚀 Saketh Surya Dontukurti (saketh-05) 👑</h1>
+<p align="center">
+  <em>Full Stack Dev • AI Enthusiast • Life Explorer</em><br>
+  <b>"Coding Empires. Crafting Futures."</b>
+</p>
 
-- 📫 How to reach me ...
-  1. Email me via - dsakethsurya@gmail.com
-  2. Contact via LinkedIn (provided in github profile)
-<!---
-saketh-05/saketh-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/girlscript-gssoc-ext24/prod/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/5.png" width="100px" height="100px" />
-</div>
+<p align="center">
+  <a href="https://github.com/saketh-05"><img src="https://img.shields.io/github/followers/saketh-05?style=social" /></a>
+  <a href="https://github.com/saketh-05/saketh-05"><img src="https://img.shields.io/github/stars/saketh-05/saketh-05?style=social" /></a>
+  <a href="https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20GitHub%20profile%20by%20@Saketh_05!&url=https://github.com/saketh-05"><img src="https://img.shields.io/twitter/url?label=Share&style=social&url=https%3A%2F%2Fgithub.com%2Fsaketh-05" /></a>
+</p>
+
+---
+
+### 🧠 Who Am I?
+
+- 🧑‍💻 FullStack Developer — MERN, FastAPI, DevOps (Basic)
+- 🤖 Building: AI Agents | Automation | Assistants | Applications (A4 🚀)
+- 🧬 Learner of Generative AI & Neural Networks
+- 🧠 Interests: Emerging Tech, Human-like AI, Design Thinking
+- 🧘‍♂️ IRL: Sketching • Painting • Self-help Books • Nature Walks
+
+---
+
+### 🛠️ My Arsenal (Tech Stack)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,py,js,react,nodejs,express,fastapi,mongodb,postgres,git,docker,vscode,linux,aws" />
+</p>
+
+---
+
+### 💎 A Few Things That Make Me Unique:
+
+- ⚙️ Built 10+ real-world apps using full-stack and ML tools
+- 🧠 Working on developing Agentic AI using Azure AI foundry, CrewAI for multi agent orchestration
+- 🔭 Dream: Build a human-like teaching agent in a virtual world
+- ✨ Dev Design Taste + Obsession with User Experience
+
+---
+
+### 📈 GitHub Domination Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saketh-05&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saketh-05&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketh-05&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🪶 GSSOC'24 Badges
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/girlscript/girlscript-gssoc-ext24/prod/public/badges/postman.png" width="100" />
+  <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/1.png" width="100" />
+  <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/2.png" width="100" />
+  <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/3.png" width="100" />
+  <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/4.png" width="100" />
+  <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/5.png" width="100" />
+</p>
+
+---
+
+### 📬 Reach Out
+
+- 📧 Mail me at: [dsakethsurya@gmail.com](mailto:dsakethsurya@gmail.com)
+- 💼 LinkedIn: [@saketh-05](https://www.linkedin.com/in/saketh-05)
+
+---
+
+### 🌀 Fun Zone
+
+- ⚡ **Tech fact:** Apollo 11 flew to the Moon with just 64KB RAM!
+- 🍭 **Fun fact:** I could live in a house made of sweets 😋
+- 💫 **Traits:** Adaptable • Creative • Friendly • Perseverant
+
+---
+
+<p align="center"><b>“The Crown’s not given. It’s coded.”</b></p>
