@@ -1,24 +1,23 @@
-<h1 align="center">⚒️ Saketh Surya Dontukurti (saketh-05) 👑</h1>
-<p align="center">
-  <em>Full Stack Dev • AI Enthusiast • Life Explorer</em><br>
-  <b>"Coding Empires. Crafting Futures."</b>
-</p>
+# Saketh Surya Dontukurti 👑
 
-<p align="center">
-  <a href="https://github.com/saketh-05"><img src="https://img.shields.io/github/followers/saketh-05?style=social" /></a>
-  <a href="https://github.com/saketh-05/saketh-05"><img src="https://img.shields.io/github/stars/saketh-05/saketh-05?style=social" /></a>
-  <a href="https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20GitHub%20profile%20by%20@Saketh_05!&url=https://github.com/saketh-05"><img src="https://img.shields.io/twitter/url?label=Share&style=social&url=https%3A%2F%2Fgithub.com%2Fsaketh-05" /></a>
-</p>
+*Full Stack Dev • AI Enthusiast • Life Explorer*
+
+**"Coding Empires. Crafting Futures."**
+
+[![GitHub followers](https://img.shields.io/github/followers/saketh-05?style=social)](https://github.com/saketh-05)
+[![GitHub stars](https://img.shields.io/github/stars/saketh-05/saketh-05?style=social)](https://github.com/saketh-05/saketh-05)
+[![Twitter](https://img.shields.io/twitter/url?label=Share&style=social&url=https%3A%2F%2Fgithub.com%2Fsaketh-05)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20GitHub%20profile%20by%20@Saketh_05!&url=https://github.com/saketh-05)
+
 
 ---
 
 ### 🧠 Who Am I?
 
-- 🧑‍💻 FullStack Developer — MERN, FastAPI, DevOps (Basic)
-- 🤖 Building: AI Agents | Automation | Assistants | Applications (A4 🚀)
-- 🧬 Learner of Generative AI & Neural Networks
-- 🧠 Interests: Emerging Tech, Human-like AI, Design Thinking
-- 🧘‍♂️ IRL: Sketching • Painting • Self-help Books • Nature Walks
+#### - 🧑‍💻 FullStack Developer — MERN, FastAPI, DevOps (Basic)
+#### - 🤖 Building: AI Agents | Automation | Assistants | Applications (A4 🚀)
+#### - 🧬 Learner of Generative AI & Neural Networks
+#### - 🧠 Interests: Emerging Tech, Human-like AI, Design Thinking
+#### - 🧘‍♂️ IRL: Sketching • Painting • Self-help Books • Nature Walks
 
 ---
 
@@ -31,18 +30,14 @@
 
 ### 💎 A Few Things That Make Me Unique:
 
-- ⚙️ Built 10+ real-world apps using full-stack and ML tools
-- 🧠 Working on developing Agentic AI using Azure AI foundry, CrewAI for multi agent orchestration
-- 🔭 Dream: Build a human-like teaching agent in a virtual world
-- ✨ Dev Design Taste + Obsession with User Experience
+##### - ⚙️ Built 10+ real-world apps using full-stack and ML tools
+##### - 🧠 Working on developing Agentic AI using Azure AI foundry, CrewAI for multi agent orchestration
+##### - 🔭 Dream: Build a human-like teaching agent in a virtual world
+##### - ✨ Dev Design Taste + Obsession with User Experience
 
 ---
 
 ### 📈 GitHub Domination Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saketh-05&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saketh-05&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -70,7 +65,7 @@
 ### 📬 Reach Out
 
 - 📧 Mail me at: [dsakethsurya@gmail.com](mailto:dsakethsurya@gmail.com)
-- 💼 LinkedIn: [@saketh-05](https://www.linkedin.com/in/saketh-05)
+- 💼 LinkedIn: [@sakethsurya05](https://www.linkedin.com/in/sakethsurya05)
 
 ---
 
