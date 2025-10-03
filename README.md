@@ -6,10 +6,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/saketh-05?style=social)](https://github.com/saketh-05)
 [![GitHub stars](https://img.shields.io/github/stars/saketh-05/saketh-05?style=social)](https://github.com/saketh-05/saketh-05)
-[![Twitter](https://img.shields.io/twitter/url?label=Share&style=social&url=https%3A%2F%2Fgithub.com%2Fsaketh-05)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20GitHub%20profile%20by%20@Saketh_05!&url=https://github.com/saketh-05)
 
-
----
+![Profile views](https://komarev.com/ghpvc/?username=saketh-05&style=flat-square&abbreviated=true&color=blue)
 
 ### 🧠 Who Am I?
 
